@@ -1,4 +1,4 @@
-#!/bin/bash
+  #!/bin/bash
 
 echo '# robots.txt for https://mirrors.tuna.tsinghua.edu.cn' > robots.txt
 echo 'User-agent: *' >> robots.txt
